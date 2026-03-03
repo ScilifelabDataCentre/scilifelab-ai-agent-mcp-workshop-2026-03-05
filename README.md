@@ -190,13 +190,15 @@ If you prefer to build the images yourself from the provided `Dockerfile`s, you 
 ```bash
 cd Section_1_LangGraph/
 docker build -t scilifelab-langgraph-jupyter .
-docker run --rm -it -p 8888:8888 scilifelab-langgraph-jupyter
+# replace `sk-...` with your OpenAI API key
+docker run -p 8888:8888 -e OPENAI_API_KEY="sk-..." scilifelab-langgraph-jupyter
 ```
 
 **Session 2:**
 ```bash
 cd session-2-mcp/
 docker build -t scilifelab-mcp-workshop:v1 .
+# replace `sk-...` with your OpenAI API key
 docker run -p 7860:7860 -e OPENAI_API_KEY="sk-..." scilifelab-mcp-workshop:v1
 ```
 
