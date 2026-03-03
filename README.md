@@ -157,7 +157,7 @@ docker pull long2406/scilifelab_langgraph:v1
 
 **Run the container:**
 ```bash
-docker run --rm -it -p 8888:8888 long2406/scilifelab_langgraph:v1
+docker run -p 8888:8888 -e OPENAI_API_KEY="sk-..." long2406/scilifelab_langgraph:v1
 ```
 
 Then open **http://localhost:8888** in your browser and navigate to `langgraph_lab.ipynb`.
