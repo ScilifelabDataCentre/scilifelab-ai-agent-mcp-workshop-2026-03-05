@@ -53,7 +53,14 @@ docker run --rm -it -p 8888:8888 scilifelab-langgraph-jupyter
 ```
 
 
-**Access and practice** 
+**Access and practice**
+
+Make sure to provide the API key if it is not done before,
+
+```bash
+# replace `sk-...` with your OpenAI API key
+echo 'OPENAI_API_KEY="sk-..."' > .env
+```
 
 Go to localhost:8888 on your browser and starting the lab
 
