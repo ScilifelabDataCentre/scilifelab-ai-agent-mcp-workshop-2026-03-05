@@ -49,8 +49,9 @@ docker build -t scilifelab-langgraph-jupyter .
 **Run Docker container**
 
 ```bash
-docker run --rm -it -p 8888:8888 -v "$(pwd)":/home/workshop/app  \--env-file .env scilifelab-langgraph-jupyter
+docker run --rm -it -p 8888:8888 scilifelab-langgraph-jupyter
 ```
+
 
 **Access and practice** 
 
