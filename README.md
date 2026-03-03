@@ -4,7 +4,7 @@
 
 ---
 
-<img src="session-2-mcp/1-mcp-from-scratch/images/cover.png" width="800" alt="Workshop Title Image">
+<img src="session-2-mcp/1-mcp-from-scratch/images/cover.png" width="400" alt="Workshop Title Image">
 
 ## Welcome
 
