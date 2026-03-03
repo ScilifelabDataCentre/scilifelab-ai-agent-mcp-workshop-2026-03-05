@@ -39,7 +39,7 @@ This bonus section bridges that gap. You will wrap [SHAMSUL](https://shamsul.ser
 ## Directory Structure
 
 ```
-3-bonus-serve-app-integration/
+3-bonus-mcp-serve-app-integration/
 ├── README.md                    ← This file
 ├── shamsul-mcp-server.py        ← MCP server wrapping the SHAMSUL Gradio app
 ├── shamsul-mcp-client.py        ← Standalone client to test the server
