@@ -1,0 +1,149 @@
+{
+  "ASPIRIN": {
+    "name": "Aspirin (Acetylsalicylic acid)",
+    "smiles": "CC(=O)Oc1ccccc1C(=O)O",
+    "smiles_rdkit": "CC(=O)Oc1ccccc1C(=O)O",
+    "smiles_pubchem": "CC(=O)Oc1ccccc1C(=O)O",
+    "indication": "Pain relief, anti-inflammatory, antipyretic, antiplatelet therapy",
+    "mechanism": "Irreversible inhibitor of COX-1 and COX-2 via acetylation, reducing prostaglandin synthesis",
+    "pre_computed_properties": {
+      "Molecular_Weight": 180.16,
+      "LogP": 1.19,
+      "HBD": 1,
+      "HBA": 4,
+      "TPSA": 63.6,
+      "Rotatable_Bonds": 3,
+      "Aromatic_Rings": 1
+    },
+    "lipinski_compliant": true
+  },
+  "IBUPROFEN": {
+    "name": "Ibuprofen",
+    "smiles": "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+    "smiles_rdkit": "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+    "smiles_pubchem": "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+    "indication": "Pain relief, anti-inflammatory, antipyretic (NSAID)",
+    "mechanism": "Reversible inhibitor of COX-1 and COX-2, reducing prostaglandin synthesis",
+    "pre_computed_properties": {
+      "Molecular_Weight": 206.28,
+      "LogP": 3.97,
+      "HBD": 1,
+      "HBA": 2,
+      "TPSA": 37.3,
+      "Rotatable_Bonds": 4,
+      "Aromatic_Rings": 1
+    },
+    "lipinski_compliant": true
+  },
+  "ERLOTINIB": {
+    "name": "Erlotinib (Tarceva)",
+    "smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCO)c(OCCO)cc23)c1",
+    "smiles_rdkit": "C#Cc1cccc(Nc2ncnc3cc(OCCO)c(OCCO)cc23)c1",
+    "smiles_pubchem": "C#Cc1cccc(Nc2ncnc3cc(OCCO)c(OCCO)cc23)c1",
+    "indication": "Non-small cell lung cancer (NSCLC), pancreatic cancer",
+    "mechanism": "Selective reversible inhibitor of EGFR tyrosine kinase; competes with ATP at the kinase active site",
+    "pre_computed_properties": {
+      "Molecular_Weight": 393.44,
+      "LogP": 2.7,
+      "HBD": 1,
+      "HBA": 6,
+      "TPSA": 74.7,
+      "Rotatable_Bonds": 6,
+      "Aromatic_Rings": 3
+    },
+    "lipinski_compliant": true
+  },
+  "IMATINIB": {
+    "name": "Imatinib (Gleevec)",
+    "smiles": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1",
+    "smiles_rdkit": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1",
+    "smiles_pubchem": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1",
+    "indication": "Chronic myeloid leukaemia (CML), gastrointestinal stromal tumours (GIST)",
+    "mechanism": "BCR-ABL tyrosine kinase inhibitor; binds the inactive conformation, preventing ATP binding",
+    "pre_computed_properties": {
+      "Molecular_Weight": 493.6,
+      "LogP": 4.08,
+      "HBD": 2,
+      "HBA": 9,
+      "TPSA": 86.3,
+      "Rotatable_Bonds": 7,
+      "Aromatic_Rings": 3
+    },
+    "lipinski_compliant": true
+  },
+  "DASATINIB": {
+    "name": "Dasatinib (Sprycel)",
+    "smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+    "smiles_rdkit": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+    "smiles_pubchem": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+    "indication": "Chronic myeloid leukaemia (CML), Philadelphia chromosome-positive ALL",
+    "mechanism": "Dual BCR-ABL and Src family kinase inhibitor; binds both active and inactive ABL conformations",
+    "pre_computed_properties": {
+      "Molecular_Weight": 488.01,
+      "LogP": 3.04,
+      "HBD": 3,
+      "HBA": 9,
+      "TPSA": 122.3,
+      "Rotatable_Bonds": 7,
+      "Aromatic_Rings": 3
+    },
+    "lipinski_compliant": true
+  },
+  "BETULINIC_ACID": {
+    "name": "Betulinic Acid",
+    "smiles": "OC(=O)[C@@]1(C)CC[C@H]2[C@@H]1CC[C@H]1[C@@H]2CC[C@@]2(C)[C@@H]1CC(=C2)C(C)=C",
+    "smiles_rdkit": "OC(=O)[C@@]1(C)CC[C@H]2[C@@H]1CC[C@H]1[C@@H]2CC[C@@]2(C)[C@@H]1CC(=C2)C(C)=C",
+    "smiles_pubchem": "CC(=C)C1CCC2(C)C(CC[C@@H]3[C@@H]2CC[C@]2(C)[C@H]3CC[C@@]2(C)C(=O)O)C1",
+    "indication": "Investigational: antiviral (HIV), anticancer, anti-inflammatory",
+    "mechanism": "Induces apoptosis via mitochondrial pathway; inhibits topoisomerase; some HIV replication inhibition",
+    "pre_computed_properties": {
+      "Molecular_Weight": 456.7,
+      "LogP": 7.3,
+      "HBD": 2,
+      "HBA": 3,
+      "TPSA": 57.5,
+      "Rotatable_Bonds": 2,
+      "Aromatic_Rings": 0
+    },
+    "lipinski_compliant": false,
+    "lipinski_violation_details": "LogP > 5 (measured: 7.30)"
+  },
+  "REMDESIVIR": {
+    "name": "Remdesivir (Veklury)",
+    "smiles": "CCC(CC)COC(=O)[C@@H](NC(=O)OCC)[P@@](=O)(OC[C@H]1O[C@@](C#N)([C@@H](O)[C@@H]1O)c1ccc2ncnc(N)c12)Oc1ccccc1",
+    "smiles_rdkit": "CCC(CC)COC(=O)[C@@H](NC(=O)OCC)[P@@](=O)(OC[C@H]1O[C@@](C#N)([C@@H](O)[C@@H]1O)c1ccc2ncnc(N)c12)Oc1ccccc1",
+    "smiles_pubchem": "CCC(CC)COC(=O)[C@@H](NC(=O)OCC)[P@@](=O)(OC[C@H]1O[C@@](C#N)([C@@H](O)[C@@H]1O)c1ccc2ncnc(N)c12)Oc1ccccc1",
+    "indication": "COVID-19 (SARS-CoV-2), Ebola virus disease",
+    "mechanism": "Prodrug of a nucleoside analogue; active form inhibits viral RNA-dependent RNA polymerase (RdRp), causing premature chain termination",
+    "pre_computed_properties": {
+      "Molecular_Weight": 602.58,
+      "LogP": 1.36,
+      "HBD": 3,
+      "HBA": 12,
+      "TPSA": 215.0,
+      "Rotatable_Bonds": 12,
+      "Aromatic_Rings": 3
+    },
+    "lipinski_compliant": false,
+    "lipinski_violation_details": "MW > 500 (602.58); HBA > 10 (12)"
+  },
+  "METFORMIN": {
+    "name": "Metformin (Glucophage)",
+    "smiles": "CN(C)C(=N)NC(=N)N",
+    "smiles_rdkit": "CN(C)C(=N)NC(=N)N",
+    "smiles_pubchem": "CN(C)C(=N)NC(=N)N",
+    "indication": "Type 2 diabetes mellitus (first-line oral antidiabetic)",
+    "mechanism": "Activates AMPK, reducing hepatic gluconeogenesis; improves peripheral insulin sensitivity",
+    "pre_computed_properties": {
+      "Molecular_Weight": 129.16,
+      "LogP": -1.43,
+      "HBD": 4,
+      "HBA": 4,
+      "TPSA": 88.8,
+      "Rotatable_Bonds": 1,
+      "Aromatic_Rings": 0
+    },
+    "lipinski_compliant": true,
+    "note": "Counterintuitive: LogP=-1.43 and TPSA=88.8 \u00c5\u00b2 yet orally bioavailable via active transporters."
+  }
+}
