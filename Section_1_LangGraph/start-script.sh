@@ -11,8 +11,11 @@ fi
 
 echo ""
 echo "============================================================"
-echo "  SciLifeLab MCP Workshop — Session 1"
+echo "  Developing AI Agents in Life Sciences, Hands-on Session 1:"
+echo "  Developing AI agents with LangGraph & ReAct"
+echo "  2026-03-05"
 echo "  Open: http://localhost:8888"
+echo "  Then open: Section_1_LangGraph/langgraph_lab.ipynb"
 echo "============================================================"
 echo ""
 
