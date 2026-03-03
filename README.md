@@ -4,6 +4,8 @@
 
 ---
 
+<img src="session-2-mcp/1-mcp-from-scratch/images/cover.png" width="800" alt="Workshop Title Image">
+
 ## Welcome
 
 We are delighted to invite you to our hands-on workshop on **"Developing AI Agents in Life Sciences"**, organised by SciLifeLab Data Centre.
