@@ -155,7 +155,7 @@ We strongly recommend pulling the pre-built images from Docker Hub. This is the 
 docker pull long2406/scilifelab_langgraph:v1
 ```
 
-**Run the container:**
+**Run the container:** (replace sk-... with your OpenAI API key):
 ```bash
 docker run -p 8888:8888 -e OPENAI_API_KEY="sk-..." long2406/scilifelab_langgraph:v1
 ```
