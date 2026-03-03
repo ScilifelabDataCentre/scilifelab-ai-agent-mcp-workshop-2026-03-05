@@ -3,11 +3,13 @@
 > **SciLifeLab Data Centre** · Air & Fire, SciLifeLab, Solna · 2026-03-05
 
 ---
+
 <div align="center">
 <a href="https://www.scilifelab.se/event/ai-agents-in-life-science-stockholm/">
 <img src="session-2-mcp/1-mcp-from-scratch/images/cover_image.png" width="400" alt="Workshop Title Image">
 </a>
 </div>
+
 ## Welcome
 
 We are delighted to invite you to our hands-on workshop on **[Developing AI Agents in Life Sciences](https://www.scilifelab.se/event/ai-agents-in-life-science-stockholm/)**, organised by SciLifeLab Data Centre.
