@@ -190,4 +190,4 @@ To give you a sense of the scale and diversity, here is a categorised snapshot o
 | **Education & Teaching** | PKPD SiAn, Demo of Bayesian Updating, Demo of ROC Curves, Demo of XGBoost | Interactive teaching tools for pharmacokinetics, statistical concepts, and machine learning |
 | **Data Exploration & General Tools** | DataScanR, TriplotGUI, nDrop2exel, gsalit | General-purpose data cleaning, molecular epidemiology, file conversion, genotyping pipelines |
 
-App frameworks on Serve include **Gradio, Shiny, Streamlit, Dash, TissUUmaps, all deployable and all wrappable as MCP servers.
+App frameworks on Serve include **Gradio, Shiny, Streamlit, Dash, TissUUmaps**, all deployable and all wrappable as MCP servers.
